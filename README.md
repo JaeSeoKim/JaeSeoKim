@@ -1,16 +1,15 @@
-### Hi there 👋
+[![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeoKim)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**JaeSeoKim/JaeSeoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeoKim)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+```c
+write(1, "Born2Code", 9);
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**42Seoul LaPiscine** - 2기 1차 피시너!
+
+**KShiled Jr** 3기 정보보호 관리진단 수료!
+
+`보안`과 `개발`을 좋아하는 20살 학생입니다! ~~(병역 특례하고 싶어요 ㅠㅠ 누가 데려가주세요 ㅠㅠ)~~
+
+ 
