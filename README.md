@@ -1,4 +1,5 @@
-Hi everyone 👋
+# Hi everyone 👋
+
 Hi guys, I am Jaeseo Kim. I am a Student from Seoul, South Korea. Currently I am interested in C, Go, Python, Javascript and its frameworks(React)
 
 ```c
