@@ -6,7 +6,7 @@ Hi guys, I am Jaeseo Kim. I am a Student from Seoul, South Korea. Currently I am
 write(1, "Born2Code", 9);
 ```
 
-**42Seoul LaPiscine** - 2기 본과정 진행중!
+**42Seoul** - 2기 본과정 진행중!
 
 **KShiled Jr** 3기 정보보호 관리진단 수료!
 
