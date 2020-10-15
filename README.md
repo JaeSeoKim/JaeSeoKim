@@ -17,7 +17,7 @@
 ```c
 void	jaeseokim(t_study *study_list)
 {
-	write(1, "Born2Code", 9);
+    write(1, "Born2Code", 9);
     while(*study_list)
     {
         if (study_hard(*study_list) == DONE)
