@@ -17,13 +17,15 @@
 ```c
 void	jaeseokim(t_study *study_list)
 {
+    t_study new_something;
+    
     write(1, "Born2Code", 9);
     while(*study_list)
     {
         if (study_hard(*study_list) == DONE)
             ++study_list;
-        if (find_new_somethig())
-            add_study_list(study_list)
+        if ((new_something = find_new_something()))
+            add_study_list(study_list, new_something);
     }
 }
 ```
