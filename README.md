@@ -38,5 +38,7 @@ void	jaeseokim(t_study *study_list)
 
 ---
 
+[![jaeskim's 42 stats](https://42-readme-stats.vercel.app/api/stats/jaeskim)](https://github.com/JaeSeoKim/42-readme-stats)
+
 ![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeoKim&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 ![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeoKim&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
