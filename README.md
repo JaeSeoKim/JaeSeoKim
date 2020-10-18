@@ -6,7 +6,7 @@
 
 🌱 I am a student developer studying in 42Seoul. 
 
-[![jaeskim's 42 stats](https://42-readme-stats.vercel.app/api/stats/jaeskim)](https://github.com/JaeSeoKim/42-readme-stats)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim)](https://github.com/JaeSeoKim/badge42)
 
 🙈 I am interested in `C`, `Go`, `Python`,  `Docker`, `Javascript (TypeScript)` and `React`!
 
