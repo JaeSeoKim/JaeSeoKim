@@ -4,39 +4,37 @@
 
 ---
 
-🌱 I am a student developer studying in 42Seoul. 
+🌱 I am a student developer studying in **42Seoul**.
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-🙈 I am interested in `C`, `Go`, `Python`,  `Docker`, `Javascript (TypeScript)` and `React`!
+🙈 I am interested in `TypeScript`, `React`, `CI/CD`, `Peer learning`!
 
-🚀 I'm dreaming of becoming a FullStack developer!
+🚀 I'm dreaming of becoming a **FrontEnd developers with web security knowledge**!
 
 ---
 
 **🚧 Working in Progress**
 
-```c
-void	jaeseokim(t_study *study_list)
-{
-    t_study new_something;
-    
-    write(1, "Born2Code", 9);
-    while(*study_list)
-    {
-        if (study_hard(*study_list) == DONE)
-            ++study_list;
-        if ((new_something = find_new_something()))
-            add_study_list(study_list, new_something);
-    }
-}
+```TypeScript
+(async () => {
+  console.info("Born2Code");
+
+  while (JaeSeoKim.knowlege.length < Infinity) {
+    Promise.all([
+      JaeSeoKim.study(),
+      JaeSeoKim.peerLearning(),
+      JaeSeoKim.exploringNewTopic(),
+    ]);
+  }
+})();
 ```
 
 ---
 
 **👷 Skill list**
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Web Security knowledge](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=WebAuthn&logoColor=white)
 
 ---
 
