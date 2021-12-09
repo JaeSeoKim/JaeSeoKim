@@ -10,7 +10,7 @@
 
 🙈 I am interested in `TypeScript`, `React`, `CI/CD`, `Peer learning`!
 
-🚀 I'm dreaming of becoming a **FrontEnd developers with web security knowledge**!
+🤓 I'm a front-end developer who grows up with his colleagues!
 
 ---
 
