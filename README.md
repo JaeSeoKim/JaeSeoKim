@@ -10,7 +10,7 @@
 
 🙈 I am interested in `TypeScript`, `React`, `CI/CD`, `Peer learning`!
 
-🤓 I'm a front-end developer who grows up with his colleagues!
+🤓 I'm a **front-end developer** who grows up with his colleagues!
 
 ---
 
