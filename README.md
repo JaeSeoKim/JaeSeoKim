@@ -4,7 +4,7 @@
 
 🌱 I am a student developer studying in **42Seoul**.
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl0yx1v0j0158ns5shlllmdvb?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
 🙈 I am interested in `TypeScript`, `React`, `CI/CD`, `Peer learning`!
 
