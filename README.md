@@ -36,7 +36,7 @@
 
 ---
 
-[![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeoKim&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeoKim&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+| [![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeoKim&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) | [![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeoKim&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) |
+|---|---|
 
 [![JaeSeoKim's trophys](https://github-profile-trophy.vercel.app/?username=JaeSeoKim&no-bg=true&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
