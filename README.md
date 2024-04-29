@@ -2,13 +2,9 @@
 
 ![42](https://badgen.net/badge/Born2Code/jaeskim/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![K-Shield_Jr](https://badgen.net/badge/K-Shield%20Jr/3rd?cache=86400) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeoKim)
 
-🌱 I am a student developer studying in **42Seoul**.
+🥳 I'm a **Front-End developer** !
 
-[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
-
-🙈 I am interested in `TypeScript`, `React`, `CI/CD`, `Peer learning`!
-
-🥳 I'm a **front-end developer** who grows up with his colleagues!
+🙈 I am interested in `TypeScript`, `React`, `CI/CD` !
 
 ---
 
